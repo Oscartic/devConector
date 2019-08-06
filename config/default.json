@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://devconector:tic135903@devconnector-czcmt.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretpasstoken"
+}
+
